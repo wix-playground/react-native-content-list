@@ -1,0 +1,19 @@
+{
+  "name": "react-native-content-list",
+  "version": "0.1.0",
+  "description": "List for React Native that handles scrolling for items that require rendering to measure their size",
+  "license": "MIT",
+  "repository": "wix-playground/react-native-content-list",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "peerDependencies": {
+    "react-native": "~0.30.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.13.0"
+  }
+}
